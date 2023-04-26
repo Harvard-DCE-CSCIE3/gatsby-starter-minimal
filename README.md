@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Test Clone of CI Project... 
+  Test Clone of CI Project... ..
 </h1>
 
 ## 🚀 Quick start 
