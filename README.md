@@ -4,10 +4,10 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Minimal Starter
+  Test Clone of CI Project
 </h1>
 
-## 🚀 Quick start
+## 🚀 Quick start 
 
 1.  **Create a Gatsby site.**
 
